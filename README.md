@@ -21,3 +21,11 @@ The system takes farmer input and uses AI to:
 - OpenAI API
 
 ## ▶️ How to Run
+## 📊 Sample Input
+2 acres land, low water, summer season
+
+## 📈 Sample Output
+- Crop: Bitter gourd  
+- Reason: Suitable for low water conditions  
+- Plan: Weekly irrigation, organic fertilizer  
+- Profit: ₹60,000 per acre
