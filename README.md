@@ -1,2 +1,23 @@
-# ai-smart-farming-agent
-AI-powered smart farming advisor agent for crop recommendation, disease detection, and profit planning
+# 🌱 AI Smart Farming Advisor Agent
+
+## 🚀 Overview
+This project is an AI-powered smart farming advisor that helps farmers make better decisions based on real-world conditions like land size, water availability, and season.
+
+## 🧠 Features
+- 🌾 Crop Recommendation based on water, land, and season
+- 🦠 Disease Detection and prevention tips
+- 💰 Profit Estimation for better planning
+- 📅 Step-by-step farming guidance
+
+## ⚙️ How it works
+The system takes farmer input and uses AI to:
+1. Understand farming conditions
+2. Suggest suitable crops
+3. Provide a farming plan
+4. Estimate profit and risks
+
+## 💻 Tech Stack
+- Python
+- OpenAI API
+
+## ▶️ How to Run
