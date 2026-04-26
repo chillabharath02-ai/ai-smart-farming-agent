@@ -21,6 +21,12 @@ The system takes farmer input and uses AI to:
 - OpenAI API
 
 ## ▶️ How to Run
+1. Install Python
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Add your OpenAI API key in app.py
+4. Run:
+   python app.py
 ## 📊 Sample Input
 2 acres land, low water, summer season
 
